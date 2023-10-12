@@ -7,3 +7,5 @@ username: new_person
 password: New_person05&
 
 This was a group project. I was responsible for the front end of this application. Hope you like it!
+
+Created using Next.js, Bootstrap and MongoDB.
